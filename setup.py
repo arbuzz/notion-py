@@ -18,8 +18,8 @@ def get_requirements(fname):
 install_requires = get_requirements("requirements.txt")
 
 setuptools.setup(
-    name="notion",
-    version="0.0.27",
+    name="constanta-notion",
+    version="0.0.28",
     author="Jamie Alexandre",
     author_email="jamalex+python@gmail.com",
     description="Unofficial Python API client for Notion.so",
