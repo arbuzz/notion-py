@@ -7,5 +7,7 @@ dist/
 
 # pipenv
 .env
+.idea
 .venv
 Pipfile
+venv/
